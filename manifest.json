@@ -1,0 +1,11 @@
+{
+    "display_name": "Cherry Gram ♡",
+    "loading_order": 12,
+    "requires": [],
+    "optional": [],
+    "js": "launcher.js",
+    "author": "CherryDev",
+    "version": "1.0.1",
+    "homePage": "",
+    "auto_update": false
+}
